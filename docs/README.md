@@ -9,7 +9,7 @@ actionLink: /指南/01.介绍
 features:
   - title: 侧边栏分组
     details: 根据目录自动生成侧边栏分组，避免文件名写错造成侧边栏异常的问题。
-  - title: vuepress-template
+  - title: nutils-js
     details: 轻量、便捷、简洁静态网站
 footer: MIT Licensed | Copyright © 2020-present lcx
 ---
