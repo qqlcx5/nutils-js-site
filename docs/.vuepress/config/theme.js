@@ -12,7 +12,7 @@ const themeConfig = {
     nav: [
         {
             text: 'tools',
-            link: '/tools/arrary/allEqual',
+            link: '/tools/arrary/multArray转换二维数组',
         },
     ],
 

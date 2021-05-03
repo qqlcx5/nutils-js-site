@@ -4,7 +4,7 @@ heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab_logo
 heroText: 前端有道
 tagline: A magical 微信公众号
 actionText: 点击开始 →
-actionLink: /指南/01.介绍
+actionLink: /tools/arrary/multArray转换二维数组
 
 features:
   - title: 侧边栏分组
