@@ -1,9 +1,5 @@
 # `isNil`是否是`null`或`undefined`
 
-```js
-isNil(value)
-```
-
 **参数**
 
 -   `value` 要检验的值
