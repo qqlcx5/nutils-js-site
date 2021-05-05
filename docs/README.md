@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab_logo.png'
+heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public_logo.jpg'
 heroText: 前端有道
 tagline: A magical 微信公众号
 actionText: 点击开始 →
