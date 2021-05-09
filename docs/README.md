@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public_logo.jpg'
+heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/qc-play.png'
 heroText: 前端有道
 tagline: A magical 微信公众号
 actionText: 点击开始 →
-actionLink: /tools/arrary/multArray转换二维数组
+actionLink: /guide/index
 
 features:
   - title: 侧边栏分组

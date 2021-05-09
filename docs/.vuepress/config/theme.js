@@ -11,6 +11,10 @@ const themeConfig = {
     lastUpdated: '最后更新时间',
     nav: [
         {
+            text: '指南',
+            link: '/guide/index',
+        },
+        {
             text: 'tools',
             link: '/tools/arrary/multArray转换二维数组',
         },
