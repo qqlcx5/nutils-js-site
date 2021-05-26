@@ -12,8 +12,10 @@
   "author": "前端有道",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.1",
     "dayjs": "^1.10.4",
-    "vuepress": "^1.8.2"
-  },
-  "dependencies": {}
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-go-top": "^1.0.4",
+    "vuepress-plugin-notify": "^1.0.8"
+  }
 }

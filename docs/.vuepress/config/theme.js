@@ -16,8 +16,12 @@ const themeConfig = {
         },
         {
             text: 'tools',
-            link: '/tools/arrary/multArray转换二维数组',
+            link: '/tools/数组/chunk转换二维数组',
         },
+        {
+            text: '国内版',
+            link: 'https://qqlcx5.gitee.io/nutils-js-site/',
+          },
     ],
 
     sidebar: {
