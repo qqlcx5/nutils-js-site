@@ -21,9 +21,9 @@ chunk(['a', 'b', 'c', 'd'], 3)
 **源码**
 
 ```js
-function chunk(arr, count = 8) {
+function chunk(array, count = 8) {
     let pages = []
-    arr.forEach((item, index) => {
+    array.forEach((item, index) => {
         const page = Math.floor(index / count)
         if (!pages[page]) pages[page] = []
         pages[page].push(item)
