@@ -1,4 +1,4 @@
-# `descArray`数组降序
+# `sortDesc`数组降序
 
 返回降序后的新数组
 
@@ -10,12 +10,12 @@
 **示例**
 
 ```js
-descArray([3, 2, 3, 4, 1])
+sortDesc([3, 2, 3, 4, 1])
 // => [ 1, 2, 3, 3, 4 ]
 ```
 
 **源码**
 
 ```js
-const descArray = arr => [...arr].sort((a, b) => b - a)
+const sortDesc = arr => [...arr].sort((a, b) => b - a)
 ```

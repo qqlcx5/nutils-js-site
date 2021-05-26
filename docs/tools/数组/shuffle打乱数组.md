@@ -1,6 +1,6 @@
-# `shuffle`数组随机
+# `shuffle`打乱数组
 
-创建一个随机的数组，使用`Fisher-Yates`算法随机排序数组的元素
+创建一个打乱的数组，使用`Fisher-Yates`算法打乱数组的元素
 
 ```js
 shuffle(array)
@@ -8,7 +8,7 @@ shuffle(array)
 
 **参数**
 
--   `array` 要随机的数组
+-   `array` 要打乱的数组
 
 **示例**
 

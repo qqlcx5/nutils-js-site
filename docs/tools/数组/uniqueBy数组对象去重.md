@@ -1,9 +1,9 @@
-# `uniqueArrayObject`数组对象去重
+# `uniqueBy`数组对象去重
 
 创建一个去重后的 array 数组对象副本
 
 ```js
-uniqueArrayObject(array)
+uniqueBy(array)
 ```
 
 **参数**
@@ -30,7 +30,7 @@ const responseList = [
     { id: 1, a: 4 },
 ]
 
-uniqueArrayObject(responseList, 'id')
+uniqueBy(responseList, 'id')
 
 // => [ { id: 1, a: 1 }, { id: 2, a: 2 }, { id: 3, a: 3 } ]
 ```
@@ -38,7 +38,7 @@ uniqueArrayObject(responseList, 'id')
 **源码**
 
 ```js
-const uniqueArrayObject = (arr, key) => {
+const uniqueBy = (arr, key) => {
     return arr.reduce((acc, cur) => {
         const ids = acc.map(item => item[key])
         return ids.includes(cur[key]) ? acc : [...acc, cur]

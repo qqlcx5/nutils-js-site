@@ -8,19 +8,19 @@ treeData(array, id, parent_id)
 
 **参数**
 
--   `array` 要生成树结构的数组
--   `id` 自定义属性名
--   `parent_id` 父级自定义属性名
+- `array` 要生成树结构的数组
+- `id` 自定义属性名
+- `parent_id` 父级自定义属性名
 
 **示例**
 
 ```js
 const comments = [
-    { id: 1, parent_id: null },
-    { id: 2, parent_id: 1 },
-    { id: 3, parent_id: 1 },
-    { id: 4, parent_id: 2 },
-    { id: 5, parent_id: 4 },
+  { id: 1, parent_id: null },
+  { id: 2, parent_id: 1 },
+  { id: 3, parent_id: 1 },
+  { id: 4, parent_id: 2 },
+  { id: 5, parent_id: 4 },
 ]
 
 treeData(comments)

@@ -1,4 +1,4 @@
-# `diffArray`具有唯一`array`值的数组
+# `difference`具有唯一`array`值的数组
 
 创建一个具有唯一`array`值的数组，每个值不包含在其他给定的数组中。
 
@@ -10,14 +10,14 @@
 **示例**
 
 ```js
-diffArray([1, 2, 6, 7], [1, 2, 9, 5])
+difference([1, 2, 6, 7], [1, 2, 9, 5])
 // => [ 6, 7 ]
 ```
 
 **源码**
 
 ```js
-const diffArray = (a, b) => {
+const difference = (a, b) => {
     const s = new Set(b)
     let arr = a.filter(x => !s.has(x))
     return arr
