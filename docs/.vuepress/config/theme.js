@@ -19,9 +19,13 @@ const themeConfig = {
             link: '/tools/数组/chunk转换二维数组',
         },
         {
-            text: '国内版',
+            text: 'Gitee',
             link: 'https://qqlcx5.gitee.io/nutils-js-site/',
-          },
+        },
+        {
+            text: 'GitHub',
+            link: 'https://github.com/qqlcx5/nutils-js/',
+        },
     ],
 
     sidebar: {
