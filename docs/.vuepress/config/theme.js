@@ -16,7 +16,7 @@ const themeConfig = {
         },
         {
             text: 'tools',
-            link: '/tools/数组/chunk转换二维数组',
+            link: '/tools/Array/chunk转换二维数组',
         },
         {
             text: 'Gitee',
