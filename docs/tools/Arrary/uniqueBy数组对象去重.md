@@ -11,7 +11,7 @@ uniqueBy(array)
 -   `array` 要去重的数组
 -   `key` 要去重的对象属性值
 
-**示例**
+**例子**
 
 ```js
 const responseList = [

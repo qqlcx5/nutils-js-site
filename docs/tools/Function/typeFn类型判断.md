@@ -11,7 +11,7 @@ typeFn.type(value)
 -   `type` 数据类型
 -   `value`要检验的值
 
-**示例**
+**例子**
 
 ```js
 typeFn.String('1')

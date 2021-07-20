@@ -11,7 +11,7 @@ aboutEqual(n1, n2, epsilon)
 -   `n1 n2` 要比较的数字
 -   `epsilon` 误差可接受范围内
 
-**示例**
+**例子**
 
 ```js
 aboutEqual(25, 2, 0.06)

@@ -8,7 +8,7 @@ sum(value1, value2, value3)
 
 -   `value1 value2 value3`要迭代的数字
 
-**示例**
+**例子**
 
 ```js
 sum(1, 2, 3, 4)

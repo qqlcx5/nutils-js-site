@@ -11,7 +11,7 @@ debounce(fn, wait)
 -   `fn` 要防抖动的函数
 -   `wait=500`需要延迟的毫秒数
 
-**示例**
+**例子**
 
 ```
 debounce(()=> { console.log('debounce') }, 1000)

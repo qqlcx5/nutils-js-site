@@ -10,7 +10,7 @@ getLineSize = (x1, y1, x2, y2)
 
 -   `x1 y1 x2 y2`坐标点
 
-**示例**
+**例子**
 
 ```js
 getLineSize(0, 0, 3, 4)

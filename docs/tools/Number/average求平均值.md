@@ -8,7 +8,7 @@ average(value1, value2, value3)
 
 -   `value` 数字
 
-**示例**
+**例子**
 
 ```js
 average(...[1, 2, 3])

@@ -5,7 +5,7 @@
 -   `object`待检索的对象
 -   `object2`待检索的对象
 
-**示例**
+**例子**
 
 ```js
 isObjectEqual({ a: 2, b: 4 }, { b: 4, a: 2 })

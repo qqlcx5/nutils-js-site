@@ -9,7 +9,7 @@ averageBy(array, fn)
 -   `array` 要迭代的数组
 -   `fn` 迭代函数
 
-**示例**
+**例子**
 
 ```js
 averageBy([{ n: 4 }, { n: 2 }, { n: 8 }, { n: 6 }], o => o.n)

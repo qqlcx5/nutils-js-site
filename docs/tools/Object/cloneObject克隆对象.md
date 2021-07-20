@@ -10,7 +10,7 @@ cloneObject(object)
 
 -   `object`要复制的对象
 
-**示例**
+**例子**
 
 ```js
 const a = { x: 1, y: 1 }

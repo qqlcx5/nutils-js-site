@@ -12,7 +12,7 @@ treeData(array, id, parent_id)
 - `id` 自定义属性名
 - `parent_id` 父级自定义属性名
 
-**示例**
+**例子**
 
 ```js
 const comments = [

@@ -12,7 +12,7 @@ sortAsc(array)
 
 -   `array` 要检查的排序数组
 
-**示例**
+**例子**
 
 ```js
 sortAsc([3, 2, 3, 4, 1])

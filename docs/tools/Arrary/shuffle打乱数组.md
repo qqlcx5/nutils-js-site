@@ -10,7 +10,7 @@ shuffle(array)
 
 -   `array` 要打乱的数组
 
-**示例**
+**例子**
 
 ```js
 shuffle([2, 3, 1])

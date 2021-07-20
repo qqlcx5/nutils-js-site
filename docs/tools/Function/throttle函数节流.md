@@ -11,7 +11,7 @@ throttle(fn, wait)
 -   `fn` 要节流的函数
 -   `wait=500`需要延迟的毫秒数
 
-**示例**
+**例子**
 
 ```js
 throttle(() => {

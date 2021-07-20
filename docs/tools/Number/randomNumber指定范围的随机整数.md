@@ -9,7 +9,7 @@ randomNumber(min, max)
 -   `min` 指定范围最小值
 -   `max` 指定范围最大值
 
-**示例**
+**例子**
 
 ```js
 randomNumber(0, 10)

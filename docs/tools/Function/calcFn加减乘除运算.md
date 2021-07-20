@@ -11,7 +11,7 @@ calcFn.add(value1, value2, value3)
 -   `add`、`sub`、`mul`、`div`运算符
 -   `value`要计算的值
 
-**示例**
+**例子**
 
 ```js
 解决 0.1+0.2 !== 0.3 问题
