@@ -1,7 +1,7 @@
-# `sum`数组中值总和
+# `accum`数组中值总和
 
 ```js
-sum(value1, value2, value3)
+accum(value1, value2, value3)
 ```
 
 **参数**
@@ -11,13 +11,13 @@ sum(value1, value2, value3)
 **例子**
 
 ```js
-sum(1, 2, 3, 4)
-sum(...[1, 2, 3, 4])
+accum(1, 2, 3, 4)
+accum(...[1, 2, 3, 4])
 // => 10
 ```
 
 **源码**
 
 ```js
-const sum = (...arr) => [...arr].reduce((acc, val) => acc + val, 0)
+const accum = (...arr) => [...arr].reduce((acc, val) => acc + val, 0)
 ```

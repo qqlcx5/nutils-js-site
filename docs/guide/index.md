@@ -72,7 +72,7 @@ nutils.chunk([1, 2, 3], 2)
 - [`averageBy`检查数组对象各项相等](###`averageBy`检查数组对象各项相等)
 - [`aboutEqual`两个值是否约等于](###`aboutEqual`两个值是否约等于)
 - [`getLineSize`计算两点之间的距离](###`getLineSize`计算两点之间的距离)
-- [`sum`数组中值总和](###`sum`数组中值总和)
+- [`accum`数组中值总和](###`accum`数组中值总和)
 
 ### 浏览器
 
