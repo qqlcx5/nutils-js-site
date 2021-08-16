@@ -1,4 +1,4 @@
-# `have`数组集合
+# `intersection`数组集合
 
 创建一个共有的`array`值的数组，每个值包含在其他给定的数组中。
 
@@ -10,17 +10,17 @@
 **例子**
 
 ```js
-have([1, 2, 6, 7], [1, 2, 9, 5])
+intersection([1, 2, 6, 7], [1, 2, 9, 5])
 // => [ 1, 2 ]
 ```
 
 **源码**
 
 ```js
-const have = (a, b) => {
+const intersection = (a, b) => {
     const s = new Set(b)
     return a.filter(x => s.has(x))
 }
 // ES6 includes
-const have = (arr, values) => arr.filter(v => values.includes(v))
+const intersection = (arr, values) => arr.filter(v => values.includes(v))
 ```
