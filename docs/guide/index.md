@@ -28,29 +28,24 @@ nutils.chunk([1, 2, 3], 2)
 
 ### 数组
 
-- [`chunk`二维数组转换](/tools/数组/chunk转换二维数组)
-- [`flatten`扁平化数组](/tools/数组/flatten扁平化数组)
-- [`flattenDeep`指定层级扁平化数组](/tools/数组/flattenDeep指定层级扁平化数组)
-- [`isArrayEqual`检查两个数组各项相等](/tools/数组/isArrayEqual检查两个数组各项相等)
-- [`difference`具有唯一`array`值的数组](/tools/数组/diffArray唯一值数组)
-- [`intersection`具有共同`array`值的数组](/tools/数组/intersection共有值数组)
-- [`unique`数组去重](/tools/数组/unique数组去重)
-- [`uniqueBy`数组对象去重](/tools/数组/uniqueBy数组对象去重)
-- [`treeData`生成树结构数据](/tools/数组/treeData生成树结构数据)
-- [`sortAsc`数组升序](/tools/数组/sortAsc数组升序)
-- [`sortDesc`数组降序](/tools/数组/sortDesc数组降序)
-- [`shuffle`打乱数组](/tools/数组/shuffle打乱数组)
-- [`take`截取数组开始指定的元素](/tools/数组/take截取数组开始指定的元素)
-- [`takeLast`截取数组最后指定的元素](/tools/数组/takeLast截取数组最后指定的元素)
-- [`clone`克隆数组](/tools/数组/clone克隆数组)
-- [`max`数组中最大值](/tools/数组/max数组中最大值)
-- [`min`数组中最大值](/tools/数组/min数组中最大值)
-- [`compact`去除数组中的无效值](/tools/数组/compact去除数组中的无效值)
-
-### 对象
-
-- [`isObjectEqual`检查两个对象各项值相等](###`isObjectEqual`检查两个对象各项值相等)
-- [`cloneObject`克隆对象](###`cloneObject`克隆对象)
+- [`chunk`二维数组转换](/tools/Array/chunk转换二维数组)
+- [`flatten`扁平化数组](/tools/Array/flatten扁平化数组)
+- [`flattenDeep`指定层级扁平化数组](/tools/Array/flattenDeep指定层级扁平化数组)
+- [`isArrayEqual`检查两个数组各项相等](/tools/Array/isArrayEqual检查两个数组各项相等)
+- [`difference`具有唯一`array`值的数组](/tools/Array/diffArray唯一值数组)
+- [`intersection`具有共同`array`值的数组](/tools/Array/intersection共有值数组)
+- [`unique`数组去重](/tools/Array/unique数组去重)
+- [`uniqueBy`数组对象去重](/tools/Array/uniqueBy数组对象去重)
+- [`treeData`生成树结构数据](/tools/Array/treeData生成树结构数据)
+- [`sortAsc`数组升序](/tools/Array/sortAsc数组升序)
+- [`sortDesc`数组降序](/tools/Array/sortDesc数组降序)
+- [`shuffle`打乱数组](/tools/Array/shuffle打乱数组)
+- [`take`截取数组开始指定的元素](/tools/Array/take截取数组开始指定的元素)
+- [`takeLast`截取数组最后指定的元素](/tools/Array/takeLast截取数组最后指定的元素)
+- [`clone`克隆数组](/tools/Array/clone克隆数组)
+- [`max`数组中最大值](/tools/Array/max数组中最大值)
+- [`min`数组中最大值](/tools/Array/min数组中最大值)
+- [`compact`去除数组中的无效值](/tools/Array/compact去除数组中的无效值)
 
 ### 函数
 
